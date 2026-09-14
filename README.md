@@ -1,38 +1,90 @@
 # Hi, I'm Helia Mohammadi 👋
 
-Frontend Developer focused on building modern, responsive and maintainable web applications with React, Next.js and TypeScript.
+### Frontend Developer | React • Next.js • TypeScript
 
-I enjoy learning new technologies quickly, solving practical problems, and turning product requirements into clean user experiences.
+I build modern, responsive, and maintainable web applications with a focus on clean architecture, user experience, and scalable frontend solutions.
 
-## Tech Stack
+I enjoy transforming ideas and product requirements into intuitive interfaces, exploring new technologies, and solving real-world development challenges.
 
-**Frontend:** React, Next.js, TypeScript, JavaScript  
-**UI:** Material UI, Tailwind CSS, Responsive Design, RTL  
-**State & Data:** Zustand, TanStack React Query  
-**API & Real-Time:** REST APIs, Axios, JWT, WebSocket, STOMP  
-**Tools:** Git, GitHub, GitLab
+---
 
-## Featured Work
+## 🛠 Tech Stack
 
-### Project Management Platform
-A collaborative project management system featuring task management,
-Kanban drag & drop, role-based access, real-time chat, file handling,
-time tracking, GitLab integration, AI-assisted code review and
-automated meeting minutes.
+### Frontend
+React • Next.js • TypeScript • JavaScript
 
-### Task Management System
-A Next.js task management application with server-state management,
-JWT authentication, refresh-token handling, calendar views and
-reusable UI components.
+### UI & Styling
+Material UI • Tailwind CSS • Responsive Design • RTL Interfaces
 
-### Website RAG Chatbot
-A data-mining project that uses RAG and a local LLM to answer questions
-based on website content.
+### State & Data Management
+Zustand • TanStack React Query
 
-## Currently Exploring
+### API & Real-Time Communication
+REST APIs • Axios • JWT Authentication • WebSocket • STOMP
 
-Redux Toolkit • Frontend Performance Optimization • Lightweight Charts
+### Tools & Workflow
+Git • GitHub • GitLab • Agile Development
 
-## Contact
+---
 
-Email: thehellwin@gmail.com
+## 🚀 Featured Projects
+
+### 📌 Smart Project Management Platform
+
+A collaborative project management platform designed for software teams.
+
+**Highlights:**
+- Task and workspace management
+- Kanban boards with drag & drop
+- Role-based access control
+- Real-time team chat
+- File management and activity tracking
+- Time tracking and reporting
+- GitLab workflow integration
+- AI-assisted code review
+- Automatic meeting-minute generation
+
+**Tech:** Next.js • TypeScript • React Query • Zustand • Material UI • WebSocket
+
+---
+
+### ✅ Task Management System
+
+A Next.js-based task management application focused on productivity and reusable frontend architecture.
+
+**Features:**
+- JWT authentication
+- Refresh token handling
+- Calendar-based task views
+- Server-state management
+- Reusable UI components
+- Responsive design
+
+**Tech:** Next.js • TypeScript • React Query • Zustand
+
+---
+
+### 🤖 Website RAG Chatbot
+
+A data-mining project that uses Retrieval-Augmented Generation (RAG) with a local LLM to answer questions based on website content.
+
+**Tech:** Python • RAG • Local LLM • Data Processing
+
+---
+
+## 🌱 Currently Exploring
+
+- Redux Toolkit
+- Frontend Performance Optimization
+- Data Visualization & Lightweight Charts
+- Modern React Patterns
+
+---
+
+## 📫 Contact
+
+📧 **Email:** thehellwin@gmail.com
+
+---
+
+⭐ Always interested in building useful products, learning new technologies, and improving as a developer.
