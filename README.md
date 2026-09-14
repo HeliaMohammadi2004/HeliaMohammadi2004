@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I'm Helia Mohammadi 👋
 
-<!--
-**HeliaMohammadi2004/HeliaMohammadi2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend Developer focused on building modern, responsive and maintainable web applications with React, Next.js and TypeScript.
 
-Here are some ideas to get you started:
+I enjoy learning new technologies quickly, solving practical problems, and turning product requirements into clean user experiences.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+
+**Frontend:** React, Next.js, TypeScript, JavaScript  
+**UI:** Material UI, Tailwind CSS, Responsive Design, RTL  
+**State & Data:** Zustand, TanStack React Query  
+**API & Real-Time:** REST APIs, Axios, JWT, WebSocket, STOMP  
+**Tools:** Git, GitHub, GitLab
+
+## Featured Work
+
+### Project Management Platform
+A collaborative project management system featuring task management,
+Kanban drag & drop, role-based access, real-time chat, file handling,
+time tracking, GitLab integration, AI-assisted code review and
+automated meeting minutes.
+
+### Task Management System
+A Next.js task management application with server-state management,
+JWT authentication, refresh-token handling, calendar views and
+reusable UI components.
+
+### Website RAG Chatbot
+A data-mining project that uses RAG and a local LLM to answer questions
+based on website content.
+
+## Currently Exploring
+
+Redux Toolkit • Frontend Performance Optimization • Lightweight Charts
+
+## Contact
+
+Email: thehellwin@gmail.com
